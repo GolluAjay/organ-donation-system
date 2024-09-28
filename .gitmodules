@@ -1,0 +1,12 @@
+[submodule "smartcontract"]
+	path = smartcontract
+	url = git@github.com:GolluAjay/smartcontract.git
+[submodule "reactjs"]
+	path = reactjs
+	url = git@github.com:GolluAjay/reactjs.git
+[submodule "nodejs"]
+	path = nodejs
+	url = git@github.com:GolluAjay/nodejs.git
+[submodule "ipfs"]
+	path = ipfs
+	url = git@github.com:GolluAjay/ipfs.git
